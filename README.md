@@ -42,7 +42,7 @@ Telegram Account Creator
 
 # Contact Way
 
-💢For more details about this tool you can contact blew id:
+💢For more information about this tool, you can contact the following ids::
 
 🆔Telegram : https://t.me/offline4ll4
 
